@@ -1,0 +1,12 @@
+### admin router
+POST http://localhost:8000/api/v1/admin
+Content-Type: application/json
+
+{
+    "fName":"sdsd",
+    "lName":"sdsd",
+    "email":"sdsd@g.com",
+    "password":"sdsd",
+    "phone": "1111111111"
+
+}
